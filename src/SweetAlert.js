@@ -261,7 +261,7 @@ var withSwalInstance = exports.withSwalInstance = function withSwalInstance(swal
 		imageUrl: null,
 		html: false,
 		animation: true,
-		input: 'text',
+		input: null,
 		inputPlaceholder: "",
 		inputValue: "",
 		showLoaderOnConfirm: false,
